@@ -41,6 +41,6 @@ header {
 #mc_embed_signup form {
     display: block;
     position: relative;
-    text-align: center;
+    text-align: center !important;
     padding: 10px 0 10px 3%;
 }
