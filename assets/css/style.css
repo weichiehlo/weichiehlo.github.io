@@ -38,6 +38,9 @@ header {
   border-width: 5px;
 }
 
-#mc_embed_signup {
-	text-align:center !important;
+#mc_embed_signup form {
+    display: block;
+    position: relative;
+    text-align: center;
+    padding: 10px 0 10px 3%;
 }
